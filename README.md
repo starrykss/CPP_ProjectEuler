@@ -1,5 +1,4 @@
 # Project Euler Project
----
 
 ## 사이트
 - <https://euler.synap.co.kr/>
